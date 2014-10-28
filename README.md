@@ -1,4 +1,4 @@
-mtb-network-portal
+MTB Network Portal
 ==================
 
 MTB Network Portal
